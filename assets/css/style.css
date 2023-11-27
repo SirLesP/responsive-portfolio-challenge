@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+/* Use variables for colours. Original design uses light and dark sludges with some black text.
+Body background #EEEEF7FF, dark banner & text #31343DFF, light banner #92CCCEFF, body text headings and rules #445877FF*/
+
+
+
 body {
   margin: 0;
   padding: 0;
